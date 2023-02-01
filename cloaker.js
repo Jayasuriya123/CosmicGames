@@ -18,7 +18,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
 
         doc.title = "Classes"
         link.rel = "icon";
-        link.href = "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png";
+        link.href = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Google_Classroom_Logo.svg/512px-Google_Classroom_Logo.svg.png?20221017163738";
         iframe.src = location.href
         style.position = "fixed"
         style.top = style.bottom = style.left = style.right = 0
